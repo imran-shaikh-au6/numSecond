@@ -1,0 +1,8 @@
+.parent {
+    margin: auto;
+    text-align: center;
+    padding-top: 15em;
+}
+.child {
+    margin: 10px;
+}
